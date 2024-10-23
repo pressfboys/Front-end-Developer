@@ -1,1 +1,1 @@
-# project url - https://pressfboys.github.io/Front-end-Developer/
+# https://pressfboys.github.io/Front-end-Developer/
